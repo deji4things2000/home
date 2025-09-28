@@ -2,8 +2,8 @@
 
 **Tampa, Florida**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/~aadediran2010/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:aadediran2023@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/dej4things2000)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aadediran2023@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/deji4things2000)
 **Phone:** +1 (415) 936-3622
 
 ---
@@ -75,6 +75,37 @@ Bringing over a decade of professional expertise in **business analytics, data s
 | **Obafemi Awolowo University** | B.Sc. Computer Science with Economics (GPA: 3.89/4.3) | May 2013 |
 | **Massachusetts Institute of Technology (MIT)** | Machine Learning for Big Data & Text Processing | June 2017 |
 | **International Business Machine (IBM)** | IBM Certified Database Associate | December 2013 |
+
+---
+
+## 🔥 Featured Projects
+
+## [MLPro - Machine Learning Professional Suite](https://github.com/deji4things2000/mlpro) ⭐
+A comprehensive machine learning framework featuring advanced algorithms, data preprocessing pipelines, and model deployment tools for production environments.
+
+**Technologies:** `Python` `Scikit-learn` `TensorFlow` `PyTorch` `MLflow` `Docker`
+
+### [Image Classifier with Python AI](https://shorturl.at/P9f5o) 
+Built an advanced image classification system using various Python AI libraries for computer vision applications and pattern recognition.
+
+**Technologies:** `Python` `Computer Vision` `Deep Learning` `TensorFlow/PyTorch`
+
+### [Airline Business Case Analysis](https://shorturl.at/kifkk)
+Developed Python functions and utilized complex data operations (merge, joins) to solve comprehensive airline business challenges and optimize operations.
+
+**Technologies:** `Python` `Data Analysis` `Pandas` `Business Intelligence`
+
+### [Dynamic Ad Performance Dashboard](https://shorturl.at/5bsgi)
+Implemented advanced formulas, pivot tables, and Google Apps Script to create interactive dashboards visualizing key ad performance metrics including impressions, CTR, eCPM, and ad-spend.
+
+**Technologies:** `Google Apps Script` `Data Visualization` `Google Sheets` `JavaScript`
+
+### [Search Engine API Data Extraction](https://shorturl.at/GGEK2)
+Machine Learning capstone project collaborating with multiple stakeholders to extract and analyze datasets using search engine APIs (Walmart, Google, YouTube, eBay) via SerpApi.
+
+**Technologies:** `Python` `API Integration` `Data Extraction` `Machine Learning`
+
+*More innovative projects in development!*
 
 ---
 
