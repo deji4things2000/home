@@ -70,10 +70,10 @@ Bringing over a decade of professional expertise in **business analytics, data s
 | Institution | Degree/Certification | Date |
 | :--- | :--- | :--- |
 | **Dartmouth College** (Ivy League) | Master of Science in Computer Science | *Expected March 2027* |
+| **Massachusetts Institute of Technology (MIT)** | Machine Learning for Big Data & Text Processing | June 2017 |
 | **Grand Canyon University** | Doctor of Business Administration (GPA: 3.86/4.0) | May 2024 |
 | **Texas A&M University** | MBA (GPA: 4.0/4.0) | December 2018 |
 | **Obafemi Awolowo University** | B.Sc. Computer Science with Economics (GPA: 3.89/4.3) | May 2013 |
-| **Massachusetts Institute of Technology (MIT)** | Machine Learning for Big Data & Text Processing | June 2017 |
 | **International Business Machine (IBM)** | IBM Certified Database Associate | December 2013 |
 
 ---
